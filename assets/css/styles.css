@@ -303,7 +303,7 @@ img {
   width: 65%;
 }
 .skills__react {
-  width: 50%;
+  width: 70%;
 }
 .skills__php {
   width: 60%;
@@ -315,9 +315,11 @@ img {
   width: 70%;
 }
 .skills__ux {
-  width: 25%;
+  width: 60%;
 }
 .skills__img {
+  height: fit-content;
+  width: fit-content;
   border-radius: 0.5rem;
 }
 
